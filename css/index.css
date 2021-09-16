@@ -1,5 +1,31 @@
 body {
-  font-family: Gill Sans;
+  font-family: Gill Sans, Courier New;
   background-color: blue;
   text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  background-color: grey;
+  padding: 15px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:35%;
+}
+
+.link1 {
+  margin: 25px;
+}
+
+.link2 {
+  margin: 25px;
+}
+
+.link3 {
+  margin: 25px;
 }
